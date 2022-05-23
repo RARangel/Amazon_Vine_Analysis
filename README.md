@@ -11,6 +11,9 @@ This project analyzes the Amazon Music Reviews with the following method:
 
 ### Deliverables
 
-Deliverable 1: Perform ETL on Amazon Product Reviews    [file](MechaCar_mpg.csv)  
-Deliverable 2: Determine Bias of Vine Reviews  
+Deliverable 1: Perform ETL on Amazon Product Reviews    [file](Amazon_Reviews_ETL.ipynb)  
+Deliverable 2: Determine Bias of Vine Reviews    [file](XXX)
 Deliverable 3: A Written Report on the Analysis (README.md)
+
+### Analysis
+
